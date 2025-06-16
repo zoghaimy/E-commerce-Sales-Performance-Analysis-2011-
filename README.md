@@ -77,7 +77,7 @@ Based on the analysis, the following recommendations are proposed to optimize bu
 
 Below is a snapshot of the Power BI dashboard created for this project:
 
-![Online Retail Dashboard](PowerBI_Report/Online_Retail_Dashboard.png)
+[![Online Retail Dashboard](PowerBI_Report/Online_Retail_Dashboard.png)](https://github.com/zoghaimy/E-commerce-Sales-Performance-Analysis-2011-/blob/main/Online%20Retail%20Dashboard.png)
 
 ## Full Project Report
 
