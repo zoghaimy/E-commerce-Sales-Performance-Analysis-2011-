@@ -83,6 +83,6 @@ Below is a snapshot of the Power BI dashboard created for this project:
 
 For a more detailed breakdown of the analysis, methodology, and findings, please refer to the full project report:
 
-[Project Report](Documentation/Project_Report.pdf)
+[[Project Report](Documentation/Project_Report.pdf)](https://github.com/zoghaimy/E-commerce-Sales-Performance-Analysis-2011-/blob/main/Project%20Report.pdf)
 
 ---
